@@ -302,3 +302,22 @@ a {
     width: 100%;
   }
 }
+@media only screen and (min-width: 376px) and (max-width: 575.98px)  {
+  .hero-section .content-box .hero-title {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Baloo 2", Sans-serif;
+    line-height: 6px;
+    color: #000;
+  }
+}
+
+@media only screen and (min-width: 120px) and (max-width: 375.98px)  {
+  .hero-section .content-box .hero-title {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Baloo 2", Sans-serif;
+    line-height: 6px;
+    color: #000;
+  }
+}
